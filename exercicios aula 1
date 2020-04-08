@@ -1,0 +1,29 @@
+Mais exercícios
+
+O Criador de galinha me falou o seguinte: "Comprei 15 galinhas por 300 reias" Quanto ele pagou por cada galinha?
+
+RESPOSTA:
+300/15 = 20 reais
+
+alert("o criador pagou em cada galinha" + (300/15) +" reais")
+
+Maria foi a padaria e comprou 19 balas, dpois voltou a padaria e comprou mais 45. Quantas balas Maria tem agora?
+
+RESPOSTA:
+19+45 = 64 balas
+
+alert("Maria tem" + (19+45) + "balas")
+
+
+
+Para calcular a área de uma circunferência usamos a seguinte fórmula: area = pi x raio x raio. O valor de pi = 3.14, se o valor do meu raio é 2 qual a área da circunferência?
+
+RESPOSTA:
+3,14*2*2 = 12,56 área
+
+alert((3.14*2)*2)
+
+
+Em breve aprenderemos como usar ferramentas, como o codepen, para poder trocar código entre nós.
+
+
